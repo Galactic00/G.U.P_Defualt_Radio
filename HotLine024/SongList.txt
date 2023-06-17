@@ -1,2 +1,1 @@
-Overdrive/Saruky
-Extraterrestrial/Saruky
+Overdrive,Extraterrestrial

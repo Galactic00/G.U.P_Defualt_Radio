@@ -1,5 +1,1 @@
-Ukiyo/Saruky
-Earworm/Saruky
-Machina/Saruky
-SodaGroove/Saruky
-CityFunk/Saruky
+Ukiyo,Earworm,Machina,SodaGroove,CityFunk
