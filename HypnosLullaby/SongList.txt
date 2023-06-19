@@ -1,1 +1,1 @@
-freakyMenu,gameOver,sleeptalk,roughhouse,powerhour,boogieman
+amusia,brimstone,bygonepurpose,CinnabarOverworld,creditsTheme,deathtoll,dissension,FreeplayMenu,frostbite,insomnia,isotope,leftunchecked(old),leftunchecked,lostcause,LullabyPause,missingno(old),missingno,monochrome(old),monochrome,optionsTheme,pastanight,PastaNightSelect,PokedexTheme,PokemonTowerTheme,purin,safetylullaby,shinto,shitno
